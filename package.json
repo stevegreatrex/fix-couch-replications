@@ -1,12 +1,12 @@
 {
-  "name": "ReplicationMonitor",
+  "name": "fix-replications",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "@stevegreatrex",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.10.6",
